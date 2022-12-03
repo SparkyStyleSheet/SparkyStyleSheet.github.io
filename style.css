@@ -29,3 +29,12 @@ body, html {
     line-height: 2;
     border-radius: 10px;
 }
+.seperator {
+    width: 90%;
+    background: black;
+    border: solid white 1px;
+    border-radius: 10px;
+    height: 10px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
