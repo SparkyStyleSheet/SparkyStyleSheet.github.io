@@ -1,0 +1,31 @@
+body, html {
+    margin: 0 auto;
+    background: linear-gradient(to bottom, #080828, #0c0c69);
+    max-width: 2000px;
+    font-family: fantasy;
+}
+.second {
+    color: white;
+    text-align: -webkit-center;
+}
+.mainImage {
+    width: 100%;
+}
+.mainTitle {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    font-size: 100px;
+    transform: translate(-50%, -50%);
+    background: linear-gradient(to left, black, #000000a6, black);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.block {
+    width: 90%;
+    height: auto;
+    background: #0aede0;
+    text-shadow: black 0px 0px 10px;
+    line-height: 2;
+    border-radius: 10px;
+}
