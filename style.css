@@ -38,3 +38,12 @@ body, html {
     margin-top: 50px;
     margin-bottom: 50px;
 }
+.text2 {
+    margin-bottom: 25px;
+    font-size: 50px;
+}
+.sec2 {
+    color: white;
+    margin-left: 10px;
+    font-size: 20px;
+}
